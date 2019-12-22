@@ -1816,6 +1816,7 @@ input, select, textarea {
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
+		resize: none;
 		appearance: none;
 		background: #f7f7f7;
 		border-radius: 0.35em;
